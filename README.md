@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @paulmostowyj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-paulmostowyj/paulmostowyj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :wave: Hi - I'm Paul Mostowyj. It's pronounced _most-o-vee_, but you can call me Paul :)
+- :man: Personal: family / fitness / adventure
+- :necktie: Professional: manager / coach / problem solver
+- :computer: Learned: xslt
+- :book: Learning: html / css / js
+- :wrench: Building: my corner of the web
+- :mailbox: Contact: [GitHub](https://github.com/paulmostowyj/paulmostowyj/issues/new) / [LinkedIn](https://www.linkedin.com/in/paulmostowyj)
