@@ -3,4 +3,5 @@
 - :necktie: Professional: manager / coach / problem solver
 - :computer: Learned: xslt
 - :book: Learning: html / css / js
-- :wrench: Building: [my corner of the web](https://github.com/paulmostowyj/paulmostowyj.github.io)
+- :house: Built: [my corner of the web](https://github.com/paulmostowyj/paulmostowyj.github.io)
+- :wrench: Building: [crappy pages](https://github.com/paulmostowyj/crappy-pages)
